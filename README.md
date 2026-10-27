@@ -80,4 +80,6 @@ git add .
 3. Commit the Changes
 Bash
 git commit -m "docs: add WSL and VS Code setup guide to README"
-How does this documentation look for your repository? Ready to run git status in your integrated terminal?
+How does this documentation look for your repository? Ready to run git status in your integrated terminal?For example, if you want your file to be named my-notes.md and you want the text inside to say something like "Learning Cloud DevOps and pushing to GitHub!", just copy and paste this command into your VS Code terminal and hit Enter:
+=======================
+Hi Mr Gemini, how are you doing my professor?
